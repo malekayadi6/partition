@@ -5,8 +5,7 @@
 target/
 
 # Generated files
-.idea/*
+.idea
 *.iml
-
-
+vcs.xml
 
